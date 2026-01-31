@@ -67,5 +67,6 @@ public class EmployeeController {
 	
 	//post is used only for save and update with id we are sending data so post 
     //	get for fetching the data
+//	again for commit 
 	
 }

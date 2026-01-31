@@ -1,4 +1,4 @@
-package com.cg.EmployeeManagement_SpringBoot_MVC;
+ package com.cg.EmployeeManagement_SpringBoot_MVC;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
